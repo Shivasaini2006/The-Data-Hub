@@ -7,5 +7,3 @@
 3. **Level 3 - Advanced Features:**
    * "Write a custom logging middleware function that logs the HTTP Method, URL, and timestamp to the console for every incoming request."
    * "Create a fake authentication POST /login route that accepts a username/password and returns a mock JWT token."
-4. **Video Presentation:**
-   * "Give me a script to make a 3-minute demo video of this project explaining it using Postman."
